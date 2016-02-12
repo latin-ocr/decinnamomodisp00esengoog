@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decinnamomodisp00esengoog_0007.png"; bbox 0 0 4470 6096; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 966 2336 1913 2457">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 966 2336 1913 2457">
+     <span class='ocr_line' id='line_1_1' title="bbox 966 2336 1913 2457; baseline 0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 966 2374 1052 2453; x_wconf 80' lang='lat' dir='ltr'><strong>Iam,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1080 2392 1164 2457; x_wconf 77' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_3' title='bbox 1184 2369 1364 2437; x_wconf 71' lang='lat' dir='ltr'>seminibus</span> <span class='ocrx_word' id='word_1_4' title='bbox 1386 2369 1482 2438; x_wconf 70' lang='lat' dir='ltr'>iactis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1500 2336 1538 2436; x_wconf 54' lang='grc' dir='ltr'><strong>αἱ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1552 2373 1689 2451; x_wconf 55' lang='lat' dir='ltr'><strong>tetulit</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1710 2373 1802 2437; x_wconf 77' lang='lat' dir='ltr'><strong>arbos</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1810 2362 1846 2452; x_wconf 62' lang='lat'><strong>,¹³</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1909 2384 1913 2394; x_wconf 85' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 958 2502 1832 2645">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 958 2502 1832 2645">
+     <span class='ocr_line' id='line_1_2' title="bbox 958 2502 1832 2645; baseline -0.003 -60"><span class='ocrx_word' id='word_1_10' title='bbox 958 2520 1073 2645; x_wconf 50' lang='lat' dir='ltr'><strong>ffurda</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1095 2524 1202 2604; x_wconf 72' lang='lat' dir='ltr'>venit,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1233 2523 1313 2591; x_wconf 79' lang='lat' dir='ltr'>seris</span> <span class='ocrx_word' id='word_1_13' title='bbox 1332 2502 1461 2625; x_wconf 54' lang='grc' dir='ltr'><strong>ψ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1480 2521 1655 2609; x_wconf 77' lang='lat' dir='ltr'><strong>nepotibus</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1678 2522 1832 2585; x_wconf 80' lang='lat' dir='ltr'><strong>umbram.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1611 2705 1903 2769">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1611 2705 1903 2769">
+     <span class='ocr_line' id='line_1_3' title="bbox 1611 2705 1903 2769; baseline -0.01 0"><span class='ocrx_word' id='word_1_16' title='bbox 1611 2705 1727 2769; x_wconf 74' lang='lat' dir='ltr'><strong>Vno.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1757 2706 1903 2768; x_wconf 77' lang='grc' dir='ltr'><strong>ῦιοιο.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2240 6096">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2240 6096">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2240 6096; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 2240 6096; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
